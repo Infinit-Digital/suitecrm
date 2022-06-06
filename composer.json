@@ -1,21 +1,14 @@
 {
-  "name": "salesagility/suitecrm",
-  "description": "SuiteCRM",
-  "homepage": "https://suitecrm.com",
+  "name": "omegacrm",
+  "description": "OmegaCRM",
+  "homepage": "https://bigosoft.co",
   "type": "project",
   "license": "GPL-3.0",
   "authors": [
     {
-      "name": "SalesAgility Ltd"
+      "name": "Big O Soft LLC"
     }
   ],
-  "support": {
-    "issues": "https://github.com/salesagility/SuiteCRM/issues",
-    "wiki": "https://docs.suitecrm.com",
-    "forum": "https://community.suitecrm.com",
-    "chat": "https://gitter.im/suitecrm/Lobby",
-    "source": "https://github.com/salesagility/SuiteCRM"
-  },
   "config": {
     "vendor-dir": "vendor",
     "platform": {
