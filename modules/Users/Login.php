@@ -71,7 +71,7 @@ $login_image = is_file('custom/include/images/sugar_md.png') ?
     '<IMG src="include/images/sugar_md_open.png" alt="Sugar" width="340" height="25" style="margin: 5px 0;">';
 
 $login_image_url = SugarThemeRegistry::current()->getImageURL('company_logo.png');
-$login_image = '<IMG src="' . $login_image_url . '" alt="SuiteCRM" style="margin: 5px 0;">';
+$login_image = '<IMG src="https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png" alt="ΩCRM" style="margin: 5px 0;">';
 
 
 $sugar_smarty->assign('LOGIN_IMAGE', $login_image);

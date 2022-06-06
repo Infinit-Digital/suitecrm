@@ -45,7 +45,7 @@ global $sugar_config, $mod_strings;
 
 ?>
 <div class="about" id="about_header">
-    <h1><img src="include/images/suite_logo.png" alt="SuiteCRM"></h1>
+    <h1><img src="https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png" alt="ΩCRM"></h1>
     <br>
     <b>
         <?php echo $mod_strings['LBL_VERSION'] . ' ' . $suitecrm_version;
