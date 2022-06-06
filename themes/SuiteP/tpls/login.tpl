@@ -147,7 +147,7 @@
     </div>
     
     <div class="p_login_bottom">
-            <a id="">&copy; Powered By SugarCRM</a>
+            <a id="">&copy; Powered By ΩCRM</a>
     	
 	</div>
     
