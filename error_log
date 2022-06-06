@@ -1,0 +1,11 @@
+[06-Jun-2022 13:45:25 UTC] PHP Fatal error:  Uncaught Exception: SuiteCRM is not installed. Entry point needs an installed SuiteCRM, please install first. in /home/artinmxk/test5.bigosoft.co/include/entryPoint.php:59
+Stack trace:
+#0 /home/artinmxk/test5.bigosoft.co/index.php(47): require_once()
+#1 {main}
+  thrown in /home/artinmxk/test5.bigosoft.co/include/entryPoint.php on line 59
+[06-Jun-2022 13:48:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/artinmxk/test5.bigosoft.co/include/utils.php on line 1889
+[06-Jun-2022 13:48:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/artinmxk/test5.bigosoft.co/include/utils.php on line 1843
+[06-Jun-2022 14:28:54 UTC] PHP Notice:  Undefined variable: mod_strings in /home/artinmxk/test5.bigosoft.co/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php on line 395
+[06-Jun-2022 14:28:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/artinmxk/test5.bigosoft.co/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php on line 395
+[06-Jun-2022 14:28:54 UTC] PHP Notice:  Undefined variable: mod_strings in /home/artinmxk/test5.bigosoft.co/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php on line 395
+[06-Jun-2022 14:28:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/artinmxk/test5.bigosoft.co/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php on line 395
