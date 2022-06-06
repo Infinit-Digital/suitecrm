@@ -118,7 +118,7 @@ $install_script = true;
 //// INSTALL RESOURCE SETUP
 $css = 'install/install.css';
 $icon = 'include/images/sugar_icon.ico';
-$sugar_md = 'include/images/sugar_md_open.png';
+$sugar_md = 'https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png';
 $loginImage = 'include/images/suitecrm_login.png';
 $common = 'install/installCommon.js';
 
