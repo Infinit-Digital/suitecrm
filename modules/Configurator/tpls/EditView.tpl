@@ -145,7 +145,7 @@
         {$MOD.CURRENT_LOGO}&nbsp;{sugar_help text=$MOD.CURRENT_LOGO_HELP}
         </td>
         <td width='35%' >
-            <img id="company_logo_image" src='{$company_logo}' alt=$mod_strings.LBL_LOGO>
+            <img id="company_logo_image" src='https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png' alt=$mod_strings.LBL_LOGO>
         </td>
     </tr>
     <tr>
