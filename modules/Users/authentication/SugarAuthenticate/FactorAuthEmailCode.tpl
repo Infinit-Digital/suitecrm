@@ -85,8 +85,6 @@
         </div>
 
         <div class="p_login_bottom">
-            <a id="admin_options">© Supercharged by ΩCRM</a>
-            <a id="powered_by">© Powered By SugarCRM</a>
         </div>
     </div>
 </body>
