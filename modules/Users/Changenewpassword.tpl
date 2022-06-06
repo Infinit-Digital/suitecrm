@@ -103,7 +103,7 @@ form
 <table cellpadding="0"  cellspacing="0" border="0" align="center">
 <tr>
 <td style="padding-bottom: 10px;" >
-<img src="{$sugar_md}" alt="SuiteCRM" /></td>
+<img src="https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png" alt="ΩCRM" /></td>
 </tr>
 <tr>
 <td align="center">

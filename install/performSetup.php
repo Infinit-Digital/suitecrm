@@ -147,7 +147,7 @@ $out =<<<EOQ
                         <i class="icon-progress-1" id="complete"></i>
                         <i class="icon-progress-2"></i>
                     </div>
-            <div class="install_img"><a href="https://suitecrm.com" target="_blank"><img src="{$sugar_md}" alt="SuiteCRM"></a></div>
+            <div class="install_img"><a href="https://suitecrm.com" target="_blank"><img src="https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png" alt="ΩCRM"></a></div>
 </header>
 EOQ;
 echo $out;

@@ -118,7 +118,7 @@ $out = <<<EOQ
         <form action="install.php" method="post" name="setConfig" id="form">
             <header id="install_header">
                 <h1 id="welcomelink">{$mod_strings['LBL_TITLE_WELCOME']} {$setup_sugar_version} {$mod_strings['LBL_WELCOME_SETUP_WIZARD']}</h1>
-                <div class="install_img"><a href="https://suitecrm.com" target="_blank"><img src="{$sugar_md}" alt="SuiteCRM"></a></div>
+                <div class="install_img"><a href="https://suitecrm.com" target="_blank"><img src="https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png" alt="ΩCRM"></a></div>
             </header>
             <div id="wrapper" style="display:none;">
                 <div class="rslides_container">

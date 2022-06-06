@@ -119,7 +119,7 @@ $install_script = true;
 $css = 'install/install.css';
 $icon = 'include/images/sugar_icon.ico';
 $sugar_md = 'https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png';
-$loginImage = 'include/images/suitecrm_login.png';
+$loginImage = 'https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png';
 $common = 'install/installCommon.js';
 
 ///////////////////////////////////////////////////////////////////////////////

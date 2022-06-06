@@ -205,7 +205,7 @@ EOQ;
                 <header id="install_header">
                     <div class="install_img">
                         <a href="https://suitecrm.com" target="_blank">
-                            <img src="{$sugar_md}" alt="SuiteCRM">
+                            <img src="https://bigosoft.co.uk/inc/uploads/2020/09/logo@1x-b-1.png" alt="ΩCRM">
                         </a>
                     </div>
                     <div id="steps">
